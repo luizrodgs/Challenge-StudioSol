@@ -30,7 +30,7 @@
   
 <br>
 
-  Segue código para base:
+  Segue código base:
   
 ```
 {
