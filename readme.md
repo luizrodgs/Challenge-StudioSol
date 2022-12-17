@@ -6,7 +6,7 @@
  - 1.2) Com o app online, execute o Postman e configure a requisição conforme informado na etapa 3.
   
 ##### - 2: **Executando manualmente**
- - 2.1) Após o downloa do projeto, crie e ative um ambiente virtual;
+ - 2.1) Após o download do projeto, crie e ative um ambiente virtual;
  - 2.2) Execute o comando "pip install -r requirements.txt" via terminal para instalar as dependências do projeto;
  - 2.3) Execute o comando "python manage.py runserver" via terminal para subir o servidor;
  - 2.4) Com o app online, execute o Postman e configure a requisição conforme informado na etapa 3.
