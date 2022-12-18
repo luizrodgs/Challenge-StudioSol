@@ -54,3 +54,4 @@ A requisição deve ficar similar a foto abaixo:
 - Django==4.1.4
 - djangorestframework==3.14.0
 - dataclasses-json==0.5.7
+- pytest==7.2.0
