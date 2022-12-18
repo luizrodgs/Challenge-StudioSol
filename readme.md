@@ -1,4 +1,11 @@
-# Desafio Back-End - Studio Sol
+# Studio Sol - Back-End Challenge
+
+### Desafio Proposto:
+- Desenvolver uma API que receba um JSON contendo uma senha e regras para sua validação (Tamanho mínimo, qtd de caracteres especiais, qtd de números, etc).
+- Linguagem escolhida: Python
+- Framework escolhido: DjangoREST
+
+<br>
 
 ### Readme:
 ##### - 1: **Executando com Docker**
@@ -23,7 +30,7 @@
   
 <br>
 
-  Segue código para base:
+  Segue código base:
   
 ```
 {
@@ -47,3 +54,4 @@ A requisição deve ficar similar a foto abaixo:
 - Django==4.1.4
 - djangorestframework==3.14.0
 - dataclasses-json==0.5.7
+- pytest==7.2.0
