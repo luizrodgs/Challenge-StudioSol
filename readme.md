@@ -2,8 +2,9 @@
 
 ### Desafio Proposto:
 - Desenvolver uma API que receba um JSON contendo uma senha e regras para sua validação (Tamanho mínimo, qtd de caracteres especiais, qtd de números, etc).
-- Linguagem escolhida: Python
-- Framework escolhido: DjangoREST
+
+### Stack
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> </a> <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> <img src="https://klauslaube.com.br/static/4ff9b044c4ab9ace735892bea0ab70a1/django-rest-framework-logo.png" alt="djangorest" width="80" height="80"/> </a> </p>
 
 <br>
 
